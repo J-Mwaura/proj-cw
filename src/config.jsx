@@ -20,4 +20,5 @@ export const TemplateId = "template_Your Template";
 
             Best wishes
             From CW
+4. Set the recipients and the sender emails. Hint : Use the same primary gmail ADDRESS
  */
